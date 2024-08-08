@@ -25,7 +25,7 @@ Follow these steps to set up and run the project:
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/TaskManagerCLI.git
+git clone https://github.com/WesleyBSa/TaskManagerCLI.git
 cd TaskManagerCLI
 ```
 
